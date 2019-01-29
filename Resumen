@@ -1,0 +1,10 @@
+En el ranking de IEEE (Institute of Electrical and Electronics Engineers),
+se encontro que Python mantiene el primer,siguiendo una racha de dos años consecutivos donde ha quedado en primer lugar.
+La razón por la que Python ha mantenido el trono por dos años consecutivos,sera porque
+Una de estas seria que la mayoria de los microcontroladores tienen mas fuerza, y con esto ya pueden correr un interpretador de Python.
+Otro plus seria que sirve mucho a la hora de utilizarlo con un hardware unido mediante un script o con un indicador interactivo.
+
+La otra razon seria que Python tiene librerias de alta calidad para las estadisticas y el big data. Como R, solamente que Python es mucho mas felxible que R/
+Scala Subio del puesto 15 al 8, posiblemente sea por que Scala ayuda a los programadores a solucionar problemas con menos lineas de codigo.
+Pero no por usar menos lineas de codigo lo hace menos complejo, por el contrario, porque scala hace que se hagan menos lineas de codigo pero con codigo mas complejo.
+Ref: https://www.linkedin.com/pulse/java-vs-scala-which-better-ali-naghipourfar/
